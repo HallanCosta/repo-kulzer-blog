@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/home/block.scss","import.css"],"names":[],"mappings":"AAAA,WACI,qBCCJ","file":"import.css","sourcesContent":[".site-main {\r\n    background-color: aqua;\r\n}",".site-main {\n  background-color: aqua;\n}"]}
